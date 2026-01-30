@@ -1,5 +1,11 @@
 ## Hi, this is Enric 👋
 
+Find me on [LinkedIn](https://www.linkedin.com/in/enricbaltasar/).
+
+## Current Projects
+
+- 🔍 [GitHub Repo Visibility](https://nakora.ai/tools/github-repo-visibility) — Analyze how visible your GitHub repository is in search and LLM answers, with actionable insights to improve discoverability.
+
 <!--
 **EnricBaltasar/EnricBaltasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Stack
+## Stack
 
 <img src="https://github.com/user-attachments/assets/e5ab7b12-ef5f-4096-8fdd-653b8ac374bf" alt="Python" height="50">
 <img src="https://github.com/user-attachments/assets/a3260f86-4112-45cb-9e5f-cbe11a506154" alt="TypeScript" height="50">
