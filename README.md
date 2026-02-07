@@ -4,7 +4,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/enricbaltasar/).
 
 ## Current Projects
 
-- 🔍 [GitHub Repo Visibility](https://nakora.ai/tools/github-repo-visibility) — Analyze how visible your GitHub repository is in search and LLM answers, with actionable insights to improve discoverability.
+- 🔍 **[GitHub Repo Visibility](https://nakora.ai/tools/github-repo-visibility)** — Analyze how visible your GitHub repository is in search and LLM answers, with actionable insights to improve discoverability.
 - 📘 **[Developer Docs Audit](https://nakora.ai/tools/developer-docs-audit)** — Assess your developer docs to find gaps hurting product discovery, activation, and customer conversion.
 
 <!--
